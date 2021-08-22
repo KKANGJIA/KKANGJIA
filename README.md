@@ -54,7 +54,7 @@
 | typescript 웹게임 | typescript 기반 |준비중 |
 <br><br>
 
-## CS, OS
+## CS & OS
 | title | description | status  |
 | ------ | ------ |------  |
 | CS | 컴퓨터 등의 전공지식과 FE 기술면접 |진행중 |
