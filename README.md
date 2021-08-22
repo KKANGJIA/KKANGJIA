@@ -23,7 +23,7 @@
 ## project
 | title | description | status  |
 | ------ | ------ | ------ |
-| aT 빅데이터 해커톤 | 농식품 6차산업 서비스, 대상 수상작 | 완료  |
+| aT 빅데이터 해커톤 | 6차산업 농촌체험 서비스, 대상 수상작 | 완료  |
 | diary | diary, movie/book review, date | 진행중  |
 | 당근마켓 클론코딩 | react 기반 웹사이트와 javascript 기반 웹사이트 | 진행중  |
 | 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
@@ -32,11 +32,11 @@
 ## study alone
 | title | description | status  |
 | ------ | ------ |------  |
-| 쇼핑몰 | javascript 쇼핑몰 |완료  |
-| javascript 심리테스트 |  |완료  |
-| react 웹게임 |  |완료  |진행중 |
-| javascript 웹게임 | |진행중 |
-| typescript 웹게임 | |준비중 |
+| 쇼핑몰 | javascript기반 |완료  |
+| 심리테스트 |  javascript기반 |완료  |
+| react 웹게임 | react 기반 |완료  |진행중 |
+| javascript 웹게임 | javascript 기반 |진행중 |
+| typescript 웹게임 | typescript 기반 |준비중 |
 <br><br>
 
 ## CS, OS
