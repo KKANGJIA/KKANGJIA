@@ -1,8 +1,9 @@
- # <center> "Hello, world!  I'm Jia Kang!" 
-! <center> [image](https://user-images.githubusercontent.com/70791860/130360017-cda59b0d-a650-4d9f-82ff-9c376548b24f.png)
+ # <center>"Hello, world!  I'm Jia Kang!" </center>
+ <center> 
+ ![image](https://user-images.githubusercontent.com/70791860/130360017-cda59b0d-a650-4d9f-82ff-9c376548b24f.png)
 
-#### my status 😁
-#### studying for a job of FrontEnd in web development 
+#### <center> my status 😁  </center
+#### <center> studying for a job of FrontEnd in web development   </center
 
 -----------------------------------------------------------------------------------------------------------------------
 
