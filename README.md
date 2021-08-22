@@ -3,16 +3,16 @@
 ![image](https://user-images.githubusercontent.com/70791860/130360017-cda59b0d-a650-4d9f-82ff-9c376548b24f.png)
 
 
-
-<br><br><br><br><br>
+<br><br><br><br>
 ## TECH STACK
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-yellow?style=flat-square&logo=CSS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
 
-<br><br><br><br><br>
+
+<br><br><br><br>
 ## project
 | title | description | status  |
 | ------ | ------ | ------ |
@@ -21,6 +21,7 @@
 | 당근마켓 클론코딩 | react 기반 웹사이트와 javascript 기반 웹사이트 | 진행중  |
 | 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
 <br><br>
+
 ## study alone
 | title | description | status  |
 | ------ | ------ |------  |
