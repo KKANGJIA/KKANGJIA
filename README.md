@@ -3,20 +3,32 @@
 
 #### my status 😁
 #### studying for a job of FrontEnd in web development 
+
 -----------------------------------------------------------------------------------------------------------------------
 
 <br><br><br><br>
-## TECH STACK ⚒
+# TECH STACK 
+## programming language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=Html&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-yellow?style=flat-square&logo=Css&logoColor=white"/></a>
+
+## Library ⚒
 <img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
 
-## Tool 🛠
-<img src="https://img.shields.io/badge/git-grey?style=flat-square&logo=git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/notion-blue?style=flat-square&logo=notion&logoColor=white"/></a>
+## package ⚒
+<img src="https://img.shields.io/badge/npm-powderblue?style=flat-square&logo=npm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/yarn-powderblue?style=flat-square&logo=yarn&logoColor=white"/></a>
 
+## module bundler &  javascript compiler ⚒
+<img src="https://img.shields.io/badge/Babel-powderblue?style=flat-square&logo=Babel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Webpack-powderblue?style=flat-square&logo=Webpack&logoColor=white"/></a>
+
+## Tool 🛠
+<img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-blue?style=flat-square&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-orange?style=flat-square&logo=Slack&logoColor=white"/></a>
 -----------------------------------------------------------------------------------------------------------------------
 
 <br><br><br><br>
