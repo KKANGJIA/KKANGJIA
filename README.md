@@ -37,7 +37,7 @@
 ## project 💻
 | title | description | status  |
 | ------ | ------ | ------ |
-| aT 빅데이터 해커톤 | 6차산업 농촌체험 서비스, 대상 수상작 | 완료  |
+| aT 빅데이터 해커톤 | 팀 기반 6차산업 농촌체험 서비스, 대상 수상작 | 완료  |
 | diary | diary, movie/book review, date | 진행중  |
 | 당근마켓 클론코딩 | react 기반 웹사이트와 javascript 기반 웹사이트 | 진행중  |
 | 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
