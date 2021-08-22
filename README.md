@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-blue?style=flat-square&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-orange?style=flat-square&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/netlify-orange?style=flat-square&logo=netlify&logoColor=white"/></a>
+
 -----------------------------------------------------------------------------------------------------------------------
 
 <br><br><br><br>
