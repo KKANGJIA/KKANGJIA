@@ -14,18 +14,18 @@
 <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=Html&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-yellow?style=flat-square&logo=Css&logoColor=white"/></a>
 
-## Library ⚒
+## Library 
 <img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
 
-## package ⚒
+## package 
 <img src="https://img.shields.io/badge/npm-powderblue?style=flat-square&logo=npm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/yarn-powderblue?style=flat-square&logo=yarn&logoColor=white"/></a>
 
-## module bundler &  javascript compiler ⚒
+## module bundler &  javascript compiler 
 <img src="https://img.shields.io/badge/Babel-powderblue?style=flat-square&logo=Babel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Webpack-powderblue?style=flat-square&logo=Webpack&logoColor=white"/></a>
-
-## Tool 🛠
+ 
+## Tool ⚒
 <img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-blue?style=flat-square&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-orange?style=flat-square&logo=Slack&logoColor=white"/></a>
@@ -43,7 +43,7 @@
 | 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
 <br><br>
 
-## study alone 💻
+## study alone
 | title | description | status  |
 | ------ | ------ |------  |
 | 쇼핑몰 | javascript기반 |완료  |
@@ -53,7 +53,7 @@
 | typescript 웹게임 | typescript 기반 |준비중 |
 <br><br>
 
-## CS, OS 💻
+## CS, OS
 | title | description | status  |
 | ------ | ------ |------  |
 | CS | 컴퓨터 등의 전공지식과 FE 기술면접 |진행중 |
