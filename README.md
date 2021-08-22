@@ -7,9 +7,14 @@
 ## TECH STACK
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-yellow?style=flat-square&logo=CSS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-yellow?style=flat-square&logo=css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
+
+## Tool
+<img src="https://img.shields.io/badge/git-grey?style=flat-square&logo=git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/notion-blue?style=flat-square&logo=notion&logoColor=white"/></a>
+
 
 
 <br><br><br><br>
