@@ -51,6 +51,7 @@
 | 심리테스트 |  javascript기반 |완료  |
 | react 웹게임 | react 기반  |진행중 |
 | javascript 웹게임 | javascript 기반 |진행중 |
+| node 개정판 강의 | node.js |진행중 |
 | typescript 웹게임 | typescript 기반 |준비중 |
 <br><br>
 
