@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=Html&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-yellow?style=flat-square&logo=Css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/node-blue?style=flat-square&logo=node&logoColor=white"/></a>
 
 ## Library 
 <img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
