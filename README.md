@@ -41,7 +41,9 @@
 | diary | diary, movie/book review, date | 진행중  |
 | 당근마켓 클론코딩 | react 기반 웹사이트와 javascript 기반 웹사이트 | 진행중  |
 | 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
+| 스터디 웹 프로젝트 | 스터디 모집 사이트 |진행중 |
 | 유튜브 클론코딩 |react 기반 클론코딩 |준비중 |
+| 비즈니스 카드 만들기 |react 기반 실습용 프로젝트 |준비중 |
 <br><br>
 
 ## study alone
@@ -53,6 +55,7 @@
 | javascript 웹게임 | javascript 기반 |진행중 |
 | node 개정판 강의 | node.js |진행중 |
 | typescript 웹게임 | typescript 기반 |준비중 |
+| react 기반 slack 클론코딩 | 풀스택 |준비중 |
 <br><br>
 
 ## CS & OS
