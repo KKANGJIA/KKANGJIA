@@ -11,9 +11,9 @@
 ## programming language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=Html&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-yellow?style=flat-square&logo=Css&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/node-blue?style=flat-square&logo=node&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=Html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=Css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/nodejs-blue?style=flat-square&logo=nodejs&logoColor=white"/></a>
 
 ## Library 
 <img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
