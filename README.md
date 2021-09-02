@@ -43,9 +43,9 @@
 | aT 빅데이터 해커톤 | 팀 기반 6차산업 농촌체험 서비스, 대상 수상작 | 완료  |
 | diary | diary, movie/book review, date | 진행중  |
 | 당근마켓 클론코딩 | react 기반 웹사이트와 javascript 기반 웹사이트 | 진행중  |
-| 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
+| 유튜브 클론코딩 |react 기반 클론코딩 |완료 |
 | 스터디 웹 프로젝트 | 스터디 모집 사이트 |진행중 |
-| 유튜브 클론코딩 |react 기반 클론코딩 |진행중 |
+| 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
 | 비즈니스 카드 만들기 |react 기반 실습용 프로젝트 |준비중 |
 <br><br>
 
