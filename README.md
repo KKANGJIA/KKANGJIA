@@ -17,6 +17,7 @@
 
 ## Library 
 <img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-Router-red?style=flat-square&logo=React-Router&logoColor=white"/></a>
 
 ## package 
 <img src="https://img.shields.io/badge/npm-powderblue?style=flat-square&logo=npm&logoColor=white"/></a>
@@ -33,17 +34,26 @@
 <img src="https://img.shields.io/badge/netlify-orange?style=flat-square&logo=netlify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostCSS-orange?style=flat-square&logo=PostCSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-orange?style=flat-square&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/firebase-orange?style=flat-square&logo=firebase&logoColor=white"/></a>
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
 <br><br><br>
-## project 💻
+## Team project 💻
 | title | description | status  |
 | ------ | ------ | ------ |
 | aT 빅데이터 해커톤 | 팀 기반 6차산업 농촌체험 서비스, 대상 수상작 | 완료  |
+| 쇼핑몰 프로젝트 | 팀 기반 쇼핑몰 서비스 | 진행중  |
+<br><br>
+
+## Toy project 💻
+| title | description | status  |
+| ------ | ------ | ------ |
+| shopping List | js, html, css | 완료  |
+| 유튜브 클론코딩 |react 기반 클론코딩 |완료 |
 | diary | diary, movie/book review, date | 진행중  |
 | 당근마켓 클론코딩 | react 기반 웹사이트와 javascript 기반 웹사이트 | 진행중  |
-| 유튜브 클론코딩 |react 기반 클론코딩 |완료 |
 | 스터디 웹 프로젝트 | 스터디 모집 사이트 |진행중 |
 | 당근마켓 클론코딩 |react-native + typescript 기반 앱 |준비중 |
 | 비즈니스 카드 만들기 |react 기반 실습용 프로젝트 |준비중 |
@@ -52,7 +62,6 @@
 ## study alone
 | title | description | status  |
 | ------ | ------ |------  |
-| 쇼핑몰 | javascript기반 |완료  |
 | 심리테스트 |  javascript기반 |완료  |
 | react 웹게임 | react 기반  |진행중 |
 | javascript 웹게임 | javascript 기반 |진행중 |
