@@ -65,8 +65,9 @@
 | 심리테스트 |  javascript기반 |완료  |
 | react 웹게임 | react 기반  |진행중 |
 | javascript 웹게임 | javascript 기반 |진행중 |
-| typescript + OPP | typescript |준비중 |
-| node 개정판 강의 | node.js |진행중 |
+| typescript + OPP by 드림코딩 | typescript |진행중 |
+| redux by nomade | redux(vanilla & react) |진행중 |
+| node 개정판 강의 | node.js |준비중 |
 | react 기반 slack 클론코딩 | 풀스택 |준비중 |
 <br><br>
 
