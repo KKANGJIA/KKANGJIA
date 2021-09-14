@@ -17,6 +17,7 @@
 ## Library 
 <img src="https://img.shields.io/badge/React-powderblue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-Router-red?style=flat-square&logo=React-Router&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=Redux&logoColor=white"/></a>
 
 ## package 
 <img src="https://img.shields.io/badge/npm-powderblue?style=flat-square&logo=npm&logoColor=white"/></a>
